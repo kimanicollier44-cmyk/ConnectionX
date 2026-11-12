@@ -1,0 +1,2 @@
+# ConnectionX uses only the Python standard library. Nothing to install.
+# pytest is needed only to run the test suite: pip install pytest
