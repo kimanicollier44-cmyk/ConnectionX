@@ -1,3 +1,5 @@
+![ConnectionX Cover](assets/cover.png)
+
 # 📱⚡ ConnectionX — Free Phone Service, Everything Upgraded
 
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
